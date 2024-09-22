@@ -1,0 +1,93 @@
+Classification,Effect,Spell,Spell_Lower
+Charm,Cause spells to reflect back to the sender.,Protego,protego
+Charm,Creates a Patronus,Expecto Patronum,expectopatronum
+Charm,Destroys ectoplasm (remains of ghosts),Scruge,scruge
+Charm,Disarms your opponent,Expelliarmus,expelliarmus
+Charm,Enlarges and item,Engorgio,engorgio
+Charm,Erases memories,Obliviate,obliviate
+Charm,Hides a secret within someone,Fidelius,fidelius
+Charm,Lockhart's Werewolf "cure",Homorphus,homorphus
+Charm,Makes an object repel water,Impervius,impervius
+Charm,Makes on object fly,Wingardium Leviosa,wingardiumleviosa
+Charm,Moves objects with wand,Mobiliarbus,mobiliarbus
+Charm,Opens locked objects,Alohomora,alohomora
+Charm,Renders target immobile.,Immobulus,immobulus
+Charm,Shoots water from wand.,Aguamenti,aguamenti
+Charm,Slows an advancing object,Impedimenta,impedimenta
+Charm,Summons an object,Accio,accio
+Charm,Target Vomits Slugs,Eat Slugs,eatslugs
+Charm,Tickles opponent,Rictusempra,rictusempra
+Charm,Turns small objects into birds,Avifors,avifors
+Charm,Used to confuse opponent,Confundus,confundus
+Charm,Wand acts like a compass,Point Me,pointme
+Curse,Controls a personUnforgivable,Imperio,imperio
+Curse,Damages opponents eyesight,Conjunctivitis,conjunctivitis
+Curse,Explode Flames on target,Confringo,confringo
+Curse,Locks opponents legs,Locomotor Mortis,locomotormortis
+Curse,Murders opponentUnforgivable,Avada Kedavra,avadakedavra
+Curse,Produces boils on opponent,Furnunculus,furnunculus
+Curse,Tortures opponentUnforgivable,Crucio,crucio
+Jinx,Knocks an object backwards,Flipendo,flipendo
+Spell,Allows the caster to delve into the mind of the victim,Legilimens,legilimens
+Spell,Allows user to write on objects,Flagrate,flagrate
+Spell,Amplifies voice,Sonorus,sonorus
+Spell,Animates statues and armor suits,Piertotum Locomotor,piertotumlocomotor
+Spell,Area Protection Spell,Protego Totalum,protegototalum
+Spell,Blasts solid objects aside,Reducto,reducto
+Spell,Blindfolds the victim,Obscuro,obscuro
+Spell,Body - Bind,Petrificus Totalus,petrificustotalus
+Spell,Causes weather effect spells to stop,Meteolojinx Recanto,meteolojinxrecanto
+Spell,Causes wounds as if slashed by a sword,Sectumsempra,sectumsempra
+Spell,Cleans up messes,Tergeo,tergeo
+Spell,Clears the target's airway.,Anapneo,anapneo
+Spell,Conjures a bunch of flowers,Orchideous,orchideous
+Spell,Conjures the Dark Mark,Morsmordre,morsmordre
+Spell,Counter spell for Sonorus,Quietus,quietus
+Spell,Counter to Lumos,Nox,nox
+Spell,Counters "Prior Incatato",Deletrius,deletrius
+Spell,Counters Stupefy,Ennervate,ennervate
+Spell,Counterspell,Liberacorpus,liberacorpus
+Spell,Creates bandages,Ferula,ferula
+Spell,Creates light at wand tip,Lumos,lumos
+Spell,Cures unconsciousness,Rennervate,rennervate
+Spell,Dig out materials,Defodio,defodio
+Spell,Duplicates an Object,Geminio,geminio
+Spell,Enlarges Teeth,Densaugeo,densaugeo
+Spell,Erects things,Erecto,erecto
+Spell,Forces opponent to dance,Tarantallegra,tarantallegra
+Spell,Glues opponent's tongue to roof of mouth,Langlock,langlock
+Spell,Hangs victim upside down by feet,Levicorpus,levicorpus
+Spell,Heals minor injuries,Episkey,episkey
+Spell,Keeps Muggles away,Repello Muggletum,repellomuggletum
+Spell,Knocks out opponent,Stupefy,stupefy
+Spell,Launches birds from your wand,Avis,avis
+Spell,Magically locks door,Colloportus,colloportus
+Spell,Makes conjured items attack,Oppugno,oppugno
+Spell,Makes Objects Explode,Expulso,expulso
+Spell,Makes Objects Hard,Duro,duro
+Spell,Moves unconscious bodies,Mobilicorpus,mobilicorpus
+Spell,Opens "One eyed witch" hump,Dissendium,dissendium
+Spell,Packs a trunk (suitcase),Pack,pack
+Spell,Prevents nearby people from listening to conversations,Muffliato,muffliato
+Spell,Produces Snake,Serpensortia,serpensortia
+Spell,Protection against hexes,Salvio Hexia,salviohexia
+Spell,Protects one from Dark Magic,Protego Horribilis,protegohorribilis
+Spell,Releases user from binding,Relashio,relashio
+Spell,Removes Pixies (maybe),Peskipiksi Pesternomi,peskipiksipesternomi
+Spell,Repairs Things,Reparo,reparo
+Spell,Result when brother wands duel,Priori Incantatum,prioriincantatum
+Spell,Returns items to original size. Counters Engorgio,Reducio,reducio
+Spell,Reveals a wands last spell / cast,Prior Incantato,priorincantato
+Spell,Reveals Hidden secrets or magical properties,Specialis Revelio,specialisrevelio
+Spell,Reveals humans nearby,Homenum Revelio,homenumrevelio
+Spell,Reveals invisible ink,Aparecium,aparecium
+Spell,Silences victim,Silencio,silencio
+Spell,Splits seams,Diffindo,diffindo
+Spell,Starts a fire,Incendio,incendio
+Spell,Stops any current spells,Finite Incantatum,finiteincantatum
+Spell,Strengthen an enclosure from enemies,Cave Inimicum,caveinimicum
+Spell,Ties someone up,Incarcerous,incarcerous
+Spell,Turns stairs into ramps,Glisseo,glisseo
+Spell,Unsticks an object,Waddiwasi,waddiwasi
+Spell,Use this spell and laugh to defeat a boggart,Riddikulus,riddikulus
+Spell,Wind Damaging Spell,Deprimo,deprimo

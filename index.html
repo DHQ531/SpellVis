@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <script src="./d3.min.js"></script>
+    <script src="d3-tip-v6.js"></script>
+    <link rel="stylesheet" href="d3-tip.css" />
+    <style>
+      body {
+        margin: 0px;
+      }
+
+      .background-image {
+        border: solid 0px#008000;
+        height: 100%;
+        background-image: url("./BG.jpg"); /* 替换为您的图片路径 */
+        background-size: cover; /* 背景图片覆盖整个元素 */
+
+        background-repeat: repeat; /* 背景图片不重复 */
+        background-attachment: fixed;
+      }
+
+      line,
+      path {
+        stroke: lightgray;
+      }
+
+      div {
+        background: #ffffff;
+        margin: 10px;
+        border-radius: 10px;
+      }
+
+      article {
+        box-sizing: content-box;
+        display: grid;
+        align-self: center;
+        align-content: center;
+        align-items: center;
+        justify-content: center;
+        margin: 0px;
+      }
+
+      .title {
+        width: 95%;
+        display: grid;
+        padding-left: 15px;
+        opacity: 0.8;
+        grid-template-columns: auto 200px;
+      }
+
+      #bar {
+        opacity: 0.8;
+        padding: 10px;
+      }
+
+      #chart2{
+        opacity: 0.8;
+        padding-left: 10px;
+        padding-right: 10px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <article class="background-image">
+      <div class="title">
+        <section>
+          <h2>The Spells of Harry Potter</h2>
+          <h6>
+            spells explicitly said aloud in the books, excludes non-verbal and
+            implied magic
+          </h6>
+        </section>
+
+        <section>
+          <span>Sort By</span>
+          <select name="" id="Sort">
+            <option value="Occurrent">Most Occurrence</option>
+            <option value="Appearence">Order of Appearence</option>
+          </select>
+        </section>
+      </div>
+      <section
+        style="
+          display: grid;
+          width: 100%;
+          height: 102vh;
+          grid-template-rows: 40% 70%;
+        "
+      >
+        <div id="bar"></div>
+        <div id="chart2" style="height: 60vh; overflow-y: scroll">
+          <div id="scattor"></div>
+        </div>
+      </section>
+    </article>
+    <script src="index.js" type="module"></script>
+  </body>
+</html>
